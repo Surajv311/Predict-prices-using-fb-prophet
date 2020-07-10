@@ -1,7 +1,6 @@
 # Predict prices using fb-prophet
 
-Before cloning the repo ensure that you have the following libraries installed<br>
-in your system to run the file.
+Before cloning the repo ensure that you have the following libraries installed in your system to run the file.<br>
 You may install:<br>
 ```conda install -c conda-forge fbprophet```<br>
 ```conda install numpy ```<br>
